@@ -1,0 +1,9 @@
+# Ignore everything by default
+*
+
+# Allow CSV files
+!*.csv
+
+# Allow README.md and .gitignore
+!README.md
+!.gitignore
