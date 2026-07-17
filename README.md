@@ -4,7 +4,7 @@ This repository contains the synthetic cohort datasets used for the comparative 
 
 ## Datasets
 
-The datasets consist of $N=8,000$ synthetic patient profiles each:
+The datasets consist of $N=10,000$ synthetic patient profiles each:
 
 1. **`reference-india-cohort.csv`**: Modeled cohort representing high cardiometabolic risk-factor architectures, parameterized using prevalence statistics from the ICMR-INDIAB and PURE studies.
 2. **`reference-global-cohort.csv`**: Modeled comparator cohort representing global risk-factor architectures, parameterized using prevalence statistics from NHANES, UK Biobank, and the WHO Global Health Observatory.
