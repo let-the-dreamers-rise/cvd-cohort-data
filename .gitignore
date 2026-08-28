@@ -7,3 +7,7 @@
 # Allow README.md and .gitignore
 !README.md
 !.gitignore
+
+# Allow the dataset generation scripts
+!scripts/
+!scripts/*.py
